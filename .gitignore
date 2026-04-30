@@ -1,0 +1,18 @@
+# Obsidian
+.obsidian/
+.obsidian-*
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 본인 진행 컨텐츠 (template만 push, 본인 글은 별도)
+# 필요 시 주석 해제:
+# 00 inbox/*
+# !00 inbox/EXAMPLE-template.md
+# 01 doing/*
+# 02 done/*
