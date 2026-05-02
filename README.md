@@ -1,4 +1,4 @@
-# devlog
+# studylog
 
 학습 unit을 글감으로 처리하는 폴더 구조.
 운영 룰은 [CLAUDE.md](./CLAUDE.md).
@@ -6,7 +6,7 @@
 ## 구조
 
 ```
-devlog/
+studylog/
 ├─ CLAUDE.md          ← 운영 룰 + AI 협업 가드레일
 ├─ README.md          ← 이 파일
 ├─ roadmap.md         ← 학습 로드맵 + 글감 진행 순서 (SSOT)

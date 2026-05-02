@@ -1,4 +1,4 @@
-# devlog — 운영 룰 + AI 협업 가드레일
+# studylog — 운영 룰 + AI 협업 가드레일
 
 이 폴더에서 AI(Claude 등)와 함께 학습 진행할 때의 룰.
 **학습 unit = 글감 unit.** done에 들어가는 게 곧 블로그 backlog.
@@ -6,7 +6,7 @@
 ## 구조
 
 ```
-devlog/
+studylog/
 ├─ CLAUDE.md          ← 이 파일
 ├─ README.md
 ├─ roadmap.md         ← 학습 로드맵 + 글감 진행 순서 (SSOT)
