@@ -2,6 +2,10 @@
 .obsidian/
 .obsidian-*
 
+# Claudian (Obsidian Claude plugin)
+.claudian/
+.claude/
+
 # Editor
 .vscode/
 .idea/
